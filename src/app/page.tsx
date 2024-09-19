@@ -1,11 +1,12 @@
 "use client";
-import { Card, CardContent, Container, Typography } from '@mui/material';
+import { Card, CardContent, CardMedia, Container, Typography } from '@mui/material';
 import SocialCard from '../socialCard';
 
 export default function Home() {
   return (
     <Container maxWidth="sm">
       <Card>
+        <CardMedia sx={{ height: 300 }} image='icon.jpg' title='MoSadie' />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
             MoSadie

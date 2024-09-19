@@ -12,7 +12,7 @@ function SocialCard({ url, title, description, color }: SocialCardProps) {
   const cardColor = color || 'primary.text';
   return (
     <Card raised sx={{color: cardColor}}>
-      <CardActionArea target='_blank' href={url}>
+      <CardActionArea rel="me" target='_blank' href={url}>
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
             {title}
