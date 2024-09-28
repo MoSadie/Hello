@@ -23,6 +23,8 @@ export default function Home() {
       <br />
       <SocialCard url={"https://discord.gg/YA6BRJVJ5t"} title="Discord - MoSadie" description='You can find me as "MoSadie" on Discord or click to join my server. This is the fastest way to get in touch!' color='#5865F2'/>
       <br />
+      <SocialCard url={"mailto:mosadie@mosadie.com"} title='Email - mosadie@mosadie.com' description='I check this email regularly, feel free to reach out!'/>
+      <br />
       <SocialCard url={"https://github.com/MoSadie"} title='GitHub - MoSadie' description='View all of my projects here!' />
       <br />
       <SocialCard url={"https://ko-fi.com/mosadie"} title='Ko-Fi - MoSadie' description='Support me and my projects!' color='#13C3FF' />
