@@ -21,19 +21,19 @@ export default function Home() {
       <br />
       <SocialCard url={"https://youtube.com/@MoSadie"} title='YouTube - @MoSadie' description='A mix of project updates and other content.' color='#FF0000'/>
       <br />
+      <SocialCard url={"https://mosadie.com"} title='Website - News, Merch & Memberships' description='Get the latest news and support me directly or through merch!' color='#020227' />
+      <br />
       <SocialCard url={"https://discord.gg/YA6BRJVJ5t"} title="Discord - MoSadie" description='You can find me as "MoSadie" on Discord or click to join my server. This is the fastest way to get in touch!' color='#5865F2'/>
       <br />
       <SocialCard url={"https://bsky.app/profile/mosadie.com"} title='Bluesky - @mosadie.com' description='See project announcements and other thoughts.' color='#1185fe'/>
       <br />
       <SocialCard url={"mailto:mosadie@mosadie.com"} title='Email - mosadie@mosadie.com' description='I check this email regularly, feel free to reach out!'/>
       <br />
-      <SocialCard url={"https://github.com/MoSadie"} title='GitHub - MoSadie' description='View all of my projects here!' />
+      <SocialCard url={"https://github.com/MoSadie"} title='GitHub - MoSadie' description='View source code of many of my projects here!' />
       <br />
-      <SocialCard url={"https://ko-fi.com/mosadie"} title='Ko-Fi - MoSadie' description='Support me and my projects!' color='#13C3FF' />
+      <SocialCard url={"https://youtube.com/@MoVODie"} title='Stream Archive - @MoVODie' description='Uploads full streams as VODs' color='#FF0000'/>
       <br />
       <SocialCard url={"https://mastodon.social/@mosadie"} title='Mastodon - @MoSadie' description='Random musings and thoughts.' color='#6364FF'/>
-      <br />
-      <SocialCard url={"https://youtube.com/@MoVODie"} title='Stream Archive - @MoVODie' description='Uploads raw streams as VODs' color='#FF0000'/>
       <br />
       <SocialCard url={"https://x.com/MoSadie_"} title='Twitter - @MoSadie_' description='Project updates. Please @ me if you make something cool!' />
 
